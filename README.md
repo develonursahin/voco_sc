@@ -24,7 +24,6 @@ Voco App, kullanıcıların kolayca giriş yapabilmesini ve katılımcıların l
   - Riverpod: State yönetimi için kullanılan bir paket.
   - http: HTTP istekleri yapmak için kullanılan bir paket.
   - shared_preferences: Yerel depolama (local storage) için kullanılan bir paket.
-  - flutter_form_builder: Formları kolayca oluşturmak ve doğrulamak için kullanılan bir paket.
 
 ## Hata Bildirimi ve Katkı 🐞
 
@@ -62,7 +61,6 @@ Voco App allows users to easily log in and view a list of participants. Below, y
   - Riverpod: Used for state management.
   - http: Used for making HTTP requests.
   - shared_preferences: Used for local storage.
-  - flutter_form_builder: Used for easily creating and validating forms.
 
 ## Bug Reporting and Contributions 🐞
 
